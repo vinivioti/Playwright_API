@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","162","GET - Verificar status 200","chromium","Mon Mar 17 14:51:19 GMT-03:00 2025","passed","Mon Mar 17 14:51:19 GMT-03:00 2025","","API_GET_example.spec.js","",""
+"","165","GET - Verificar status 200","webkit","Mon Mar 17 14:49:55 GMT-03:00 2025","passed","Mon Mar 17 14:49:56 GMT-03:00 2025","","API_GET_example.spec.js","",""
+"","180","GET - Verificar Rick Sanches","firefox","Mon Mar 17 14:49:55 GMT-03:00 2025","passed","Mon Mar 17 14:49:56 GMT-03:00 2025","","API_GET_example.spec.js","",""
+"","159","GET - Verificar status 200","firefox","Mon Mar 17 14:49:55 GMT-03:00 2025","passed","Mon Mar 17 14:49:56 GMT-03:00 2025","","API_GET_example.spec.js","",""
+"","157","GET - Verificar Rick Sanches","chromium","Mon Mar 17 14:51:19 GMT-03:00 2025","passed","Mon Mar 17 14:51:19 GMT-03:00 2025","","API_GET_example.spec.js","",""
+"","192","GET - Verificar Rick Sanches","webkit","Mon Mar 17 14:49:55 GMT-03:00 2025","passed","Mon Mar 17 14:49:56 GMT-03:00 2025","","API_GET_example.spec.js","",""
