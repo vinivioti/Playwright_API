@@ -34,7 +34,7 @@ test('GET - Verificar Rick Sanches inválido', async ({request}) => {
 
   expect(response).toBeDefined(); // Verifica se os dados são retornados
   expect(response.status()).toBe(200); // Verifica se o status é 200 OK
-  expect(JsonData.results[0].name).toContain('Rick Sanches') //Verifica se o nome é Rick Sanchez
+  expect(JsonData.results[0].name).toContain('Rick Sanches') //Verifica se o nome é Rick Sanchez, Da erro pois é Sanchez com 'Z' e não com 'S'
   
 
 });
